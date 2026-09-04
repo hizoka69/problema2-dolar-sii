@@ -1,4 +1,4 @@
-La ganancia que se evapora hola
+La ganancia que se evapora
 
 Análisis de cancelación y propagación de error usando los datos del dólar observado del SII (2022–2025).
 
